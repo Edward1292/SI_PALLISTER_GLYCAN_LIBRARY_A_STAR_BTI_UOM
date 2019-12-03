@@ -23,4 +23,4 @@ _You **can** combine them_
 
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
