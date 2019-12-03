@@ -22,5 +22,5 @@ _You **can** combine them_
 
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 Format: ![Alt Text](url)
