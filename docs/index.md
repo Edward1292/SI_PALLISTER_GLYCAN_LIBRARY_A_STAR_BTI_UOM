@@ -7,18 +7,44 @@ Supporting Figures For IMS paper.
  
  
 ![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)
+
+
 ![A2](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2.png)
+
+
 ![A3](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A3.png)
+
+
 ![A4](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A4.png)
+
+
 ![A2B](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2B.png)
+
+
 ![G1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/G1.png)
+
+
 ![G1'](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/G1'.png)
+
+
 ![G2](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/G2.png)
+
+
 ![M5](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/M5.png)
+
+
 ![A2BG1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2BG1.png)
+
+
 ![A2BG1'](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2BG1'.png)
+
+
 ![A2G1S1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2G1S1.png)
+
+
 ![A2G1'S1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2G1'S1.png)
+
+
 
 # This is an 
 ## This is an 
