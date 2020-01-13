@@ -6,7 +6,7 @@ Supporting Figures For IMS paper.
  
  
  
-![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)
+![Glycan A1 Structure](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)
 
 
 ![A2](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2.png)
