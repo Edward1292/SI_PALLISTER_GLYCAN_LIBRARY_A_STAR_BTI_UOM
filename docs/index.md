@@ -2,7 +2,7 @@
 
 Supporting Figures For IMS paper.
 
- - [G1 Map](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//G1_MS1_Github/G1_MS1_Github-all plot-.html)
+ - [G1 Map](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//G1_MS1_Github/G1_MS1_Github_All-CCS-Data.html)
  
  
 RFMS-Glycan A1
