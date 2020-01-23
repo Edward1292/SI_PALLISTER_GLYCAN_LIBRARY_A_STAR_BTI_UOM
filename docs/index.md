@@ -4,7 +4,7 @@
 
 | Name     | Structure|MS1|M+H2+|
 | ---      | ---       |---|---|
-| RFMS-Glycan A1 | ![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)|- [A1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//A1_MS1_RFMS/A1_MS1_RFMS_All-CCS-Data.html) |- ![A1_M+2H+](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A1_MS1_RFMS/RT_7_5-7_7mz_786_38/RT_7_5-7_7mz_786_38.html)|
+| RFMS-Glycan A1 | ![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)|- [A1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//A1_MS1_RFMS/A1_MS1_RFMS_All-CCS-Data.html) |- [A1_M+2H+](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A1_MS1_RFMS/RT_7_5-7_7mz_786_38/RT_7_5-7_7mz_786_38.html)|
 
 
 Supporting Figures For IMS paper.
