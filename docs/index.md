@@ -2,10 +2,10 @@
 
 
 
-| Name     | Character |
-| ---      | ---       |
-| Backtick | ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)       |
-| Pipe     | \|        |
+| Name     | Structure|MS1|
+| ---      | ---       |- [A1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//A1_MS1_RFMS/A1_MS1_RFMS_All-CCS-Data.html)|
+| RFMS-Glycan A1 | ![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)||
+| Pipe     | \|        ||
 
 
 Supporting Figures For IMS paper.
