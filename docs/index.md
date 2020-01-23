@@ -31,7 +31,7 @@ RFMS-Glycan A3
 ![A2B](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2B.png)
 
 RFMS-Glycan G1
-- [G1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//A1_MS1_RFMS/G1_MS1_RFMS_All-CCS-Data.html)
+- [G1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//G1_MS1_RFMS/G1_MS1_RFMS_All-CCS-Data.html)
 
 
 ![G1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/G1.png)
