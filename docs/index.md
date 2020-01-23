@@ -2,10 +2,9 @@
 
 
 
-| Name     | Structure|MS1|
-| ---      | ---       |---|
-| RFMS-Glycan A1 | ![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)|- [A1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//A1_MS1_RFMS/A1_MS1_RFMS_All-CCS-Data.html) |
-| Pipe     | \|        ||
+| Name     | Structure|MS1|M+H2+|
+| ---      | ---       |---|---|
+| RFMS-Glycan A1 | ![A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)|- [A1 MS1 CCS Data](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//A1_MS1_RFMS/A1_MS1_RFMS_All-CCS-Data.html) |xxx|
 
 
 Supporting Figures For IMS paper.
