@@ -24,6 +24,22 @@
 | RFMS-Glycan  F(6)A2BG1'|![RFMS Label](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/RFMS_Label.png)| ![F(6)A2BG1'](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A2BG1'.png)      |[F(6)A2BG1' 2D Plot](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A2BG1_prime_MS1_RFMS/A2BG1_prime_MS1_RFMS_All-CCS-Data.html)|[F(6)A2BG1' [M+2H]<sup>2+</sup>](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A2BG1_prime_MS1_RFMS/RT_22_9-23_1mz_1070_53/RT_22_9-23_1mz_1070_53.html)|[F(6)A2BG1' [M+Na+H]<sup>2+</sup>](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A2BG1_prime_MS1_RFMS/RT_22_9-23_1mz_1081_53/RT_22_9-23_1mz_1081_53.html)|[F(6)A2BG1' MS1 Mass Spec](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A2BG1_prime_MS1_RFMS/A2BG1_prime_MS1_RFMS229-231AvgMassSpec.html)|
 | RFMS-Glycan  F(6)A4|![RFMS Label](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/RFMS_Label.png)| ![F(6)A4](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A4.png)      |[F(6)A4 2D Plot](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A4_MS1_RFMS/A4_MS1_RFMS_All-CCS-Data.html)|[F(6)A4 [M+2H]<sup>2+</sup>](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A4_MS1_RFMS/RT_22_1-22_4mz_1091_04/RT_22_1-22_4mz_1091_04.html)|[F(6)A4 [M+Na+H]<sup>2+</sup>](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A4_MS1_RFMS/RT_22_1-22_4mz_1102_04/RT_22_1-22_4mz_1102_04.html)|[F(6)A4 MS1 Mass Spec](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A4_MS1_RFMS/A4_MS1_RFMS221-224AvgMassSpec.html)|
 
+
+# RFMS Labelled N-Glycan IMS-MS/MS Glycan Sequencing Analysis
+
+
+
+| Name     |Reducing Terminus| Structure|[M+2H]<sup>2+</sup> MS/MS 2D CCSD|[M+Na+H]<sup>2+</sup> MS/MS 2D CCSD|Mass Spectrum|
+| ---      |---| ---       |---|---|---|---|
+| RFMS-Glycan F(6)A1 |![RFMS Label](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/RFMS_Label.png)| ![F(6)A1](https://raw.githubusercontent.com/Edward1292/test555/master/docs/Glycan_Structures/A1.png)|[F(6)A1 [M+2H]<sup>2+</sup>](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A1_MS1_RFMS/RT_7_5-7_7mz_786_38/RT_7_5-7_7mz_786_38.html)|[F(6)A1 [M+Na+H]<sup>2+</sup>](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A1_MS1_RFMS/RT_7_5-7_7mz_797_37/RT_7_5-7_7mz_797_37.html)|[F(6)A1 MS1 Mass Spec](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM/A1_MS1_RFMS/A1_MS1_RFMS75-77AvgMassSpec.html)|
+
+
+
+
+
+
+
+
 Supporting Figures For IMS paper.
 
  - [G1 Map](https://edward1292.github.io/SI_PALLISTER_GLYCAN_LIBRARY_A_STAR_BTI_UOM//G1_MS1/G1_MS1_All-CCS-Data.html) 
