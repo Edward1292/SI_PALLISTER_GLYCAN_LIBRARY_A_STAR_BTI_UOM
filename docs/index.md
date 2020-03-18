@@ -1,6 +1,5 @@
 # Supporting Figures For IMS-PAPER
 
-# RFMS Labelled N-Glycan IMS-MS1 Intact Analysis
 
 ## This Database provides a snapshot of data acquired during Ion Mobility Mass Specrometry Analysis of Glycans.
 ## Please note some of the advice/guidance for using the database:
@@ -8,6 +7,8 @@
 ## 2. The Database is snapshot of the data we acquired, we have presented the best representation of the results here providing you with the real CCSD plots as we feel this is more informative than 100 % peak apexes and a big table of numbers. However as a results, the database results are not replicate averaged results and the user should take that into account. (We can share triplicate data if that is of interest).
 ## 3. Some of the MS2 data contains CCSDs which are poorly resolved. This is due to intensity of the prodcut ions being too weak for a good CCSD. However we wanted to keep the data in the analysis as the MS2 product ions maybe significant without CCSD. We therefore advise that the intensity filter bar provided in the 2D plots should be set to above ~1250 for the best experience of the CCSD data if that is what the user is interested in. This should help remove/ignore poorly resolved CCSD data.
 ## 4. Enjoy using our database :), this is still in trail state so we appreciate feedback and discussion on how this can be improved so please get in touch !
+
+# RFMS Labelled N-Glycan IMS-MS1 Intact Analysis
 
 | Name     |Reducing Terminus| Structure|2D MS1 Plot|[M+2H]<sup>2+</sup> CCSD|[M+Na+H]<sup>2+</sup> CCSD|Mass Spectrum|
 | ---      |---| ---       |---|---|---|---|
