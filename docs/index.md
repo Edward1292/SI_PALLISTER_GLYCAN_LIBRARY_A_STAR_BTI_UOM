@@ -10,7 +10,7 @@
 
 
 # Ion-Mobility Mass Spectrometry of Glycans In Positive Ion Mode Enables Isomer Identification 
-# Edward G. Pallister*†‡ Matthew S. F. Choo†, Ian Walsh†, Jien-Nee Tai†, Tay Shi-Jie†, Yang Yuansheng†, Pauline M. Rudd†, Sabine L. Flitsch‡* and Terry Nguyen-Khuong†* 
+## Edward G. Pallister*†‡ Matthew S. F. Choo†, Ian Walsh†, Jien-Nee Tai†, Tay Shi-Jie†, Yang Yuansheng†, Pauline M. Rudd†, Sabine L. Flitsch‡* and Terry Nguyen-Khuong†* 
 
 
 ### †Bioprocessing Technology Institute, Agency for Science Technology and Research, Singapore
