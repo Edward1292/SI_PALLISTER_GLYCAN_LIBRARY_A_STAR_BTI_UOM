@@ -13,9 +13,7 @@
 <img src="https://assets.manchester.ac.uk/logos/hi-res/TAB_UNI_MAIN_logo/White_backgrounds/TAB_col_white_background.png" img align="right" height = "170" />  
 
 
-{empty} +
-
-
+<br/>
 --------------------------------------------------------------------------------------------------------------------------  
 ---
 
