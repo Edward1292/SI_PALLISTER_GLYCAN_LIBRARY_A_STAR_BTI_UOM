@@ -5,7 +5,7 @@
 ## †Bioprocessing Technology Institute, Agency for Science Technology and Research, Singapore
 ## ‡School of Chemistry & Manchester Institute of Biotechnology (MIB), The University of Manchester, United Kingdom
 
-# *edward.pallister@gmail.com
+# *Edward Pallister edward.pallister@gmail.com
 # *Sabine Flitsch: Sabine.flitsch@machester.ac.uk
 # *Terry Nguyen-Khuong: Terry_Nguyen_Khuong@bti.a-satr.edu.sg
 
