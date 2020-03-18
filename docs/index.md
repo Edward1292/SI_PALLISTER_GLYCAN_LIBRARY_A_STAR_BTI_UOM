@@ -12,7 +12,7 @@
 ### Please note some of the advice/guidance for using the database:
 ### 1. Please cite the database if you find it useful
 ### 2. The Database is snapshot of the data we acquired, we have presented the best representation of the results here providing you with the real CCSD plots as we feel this is more informative than 100 % peak apexes and a big table of numbers. However as a results, the database values are not replicate averaged results and the user should take that into account. (We can share replicate data if that is of interest).
-### 3. Some of the MS2 data contains CCSDs which are poorly resolved. This is due to intensity of the prodcut ions being too weak for a good CCSD. However we wanted to keep the data in the analysis as the MS2 product ions maybe significant without CCSD. We therefore advise that the intensity filter bar provided in the 2D plots should be set to above ~1250 for the best experience of the CCSD. This should help remove/ignore poorly resolved CCSD data.
+### 3. Some of the MS2 data contains CCSDs which are poorly resolved. This is due to intensity of the prodcut ions being too weak for a good CCSD. However we wanted to keep the data in the analysis as the MS2 product ions maybe significant without CCSD. We therefore advise that the intensity filter bar provided in the 2D plots should be set to above ~1250 for the best experience of the CCSD data in the 2D plots. This should help remove/ignore poorly resolved CCSD data.
 ### 4. Enjoy using our database :), this is still in trail state so we appreciate feedback and discussion on how this can be improved so please get in touch !
 
 # RFMS Labelled N-Glycan IMS-MS1 Intact Analysis
