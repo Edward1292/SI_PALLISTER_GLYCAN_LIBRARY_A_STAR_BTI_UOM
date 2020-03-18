@@ -1,4 +1,4 @@
-| RFMS-Glycan F(6)A1 |![RFMS Label](https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png)|
+![RFMS Label](https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png)|
 
 
 # Ion-Mobility Mass Spectrometry of Glycans In Positive Ion Mode Enables Isomer Identification 
