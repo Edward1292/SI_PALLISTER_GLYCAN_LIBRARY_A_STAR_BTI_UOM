@@ -1,4 +1,11 @@
-# Supporting Figures For IMS-PAPER
+# Ion-Mobility Mass Spectrometry of Glycans In Positive Ion Mode Enables Isomer Identification 
+# Edward G. Pallister†‡ Matthew S. F. Choo†, Ian Walsh†, Jien-Nee Tai†, Tay Shi-Jie†, Yang Yuansheng†, Pauline M. Rudd†, Sabine L. Flitsch‡* and Terry Nguyen-Khuong†* 
+
+
+# †Bioprocessing Technology Institute, Agency for Science Technology and Research, Singapore
+# ‡School of Chemistry & Manchester Institute of Biotechnology (MIB), The University of Manchester, United Kingdom
+
+
 
 
 ## This Database provides a snapshot of data acquired during Ion Mobility Mass Specrometry Analysis of Glycans.
