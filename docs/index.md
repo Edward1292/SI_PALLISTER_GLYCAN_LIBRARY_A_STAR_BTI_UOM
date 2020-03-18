@@ -1,5 +1,4 @@
-<img src="https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<img src="https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png" img align="left" />
 
 
 
