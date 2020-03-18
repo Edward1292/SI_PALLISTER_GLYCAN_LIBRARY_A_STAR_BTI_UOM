@@ -1,8 +1,8 @@
 <img src="https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png" img align="left" />
+<img src="https://www.staffnet.manchester.ac.uk/brand/visual-identity/logo/logo_big.gif" img align="right" />
 
 
 
-![RFMS Label](https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png) ![RFMS Label](https://www.staffnet.manchester.ac.uk/brand/visual-identity/logo/logo_big.gif) 
 
 # Ion-Mobility Mass Spectrometry of Glycans In Positive Ion Mode Enables Isomer Identification 
 # Edward G. Pallister*†‡ Matthew S. F. Choo†, Ian Walsh†, Jien-Nee Tai†, Tay Shi-Jie†, Yang Yuansheng†, Pauline M. Rudd†, Sabine L. Flitsch‡* and Terry Nguyen-Khuong†* 
