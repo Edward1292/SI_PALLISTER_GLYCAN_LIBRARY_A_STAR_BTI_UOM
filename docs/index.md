@@ -1,5 +1,5 @@
 <img src="https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png" img align="centre"/>
-<img src="https://www.staffnet.manchester.ac.uk/brand/visual-identity/logo/logo_big.gif" img align="centre"/>
+<img src="https://assets.manchester.ac.uk/logos/hi-res/TAB_UNI_MAIN_logo/White_backgrounds/TAB_col_white_background.png" img align="centre"/>
 
 
 
