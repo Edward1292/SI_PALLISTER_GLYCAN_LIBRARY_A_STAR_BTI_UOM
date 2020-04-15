@@ -1,4 +1,4 @@
-# Ion-Mobility Mass Spectrometry of Glycans In Positive Ion Mode Enables Isomer Identification 
+# Ion-Mobility Mass Spectrometry of Glycans and Glycopeptides Using Both Intact and Glycan Sequencing Approaches In Positive Ion Mode Facilitates Glycan Isomer and Glycan Motif Identification    
 ## Edward G. Pallister†‡* Matthew S. F. Choo†, Ian Walsh†, Jien-Nee Tai†,Shi-Jie Tay†,Yuansheng Yang†, Say-Kong Ng†, Pauline M. Rudd†, Sabine L. Flitsch‡* and Terry Nguyen-Khuong†* 
 
 
