@@ -7,7 +7,7 @@
 
 ### *Edward Pallister edward.pallister@postgrad.manchester.ac.uk
 ### *Sabine Flitsch: Sabine.flitsch@machester.ac.uk
-### *Terry Nguyen-Khuong: Terry_Nguyen_Khuong@bti.a-satr.edu.sg
+### *Terry Nguyen-Khuong: Terry_Nguyen_Khuong@bti.a-star.edu.sg
 
 <img src="https://www.a-star.edu.sg/images/librariesprovider7/default-album/astar-bti-354x143.png" img align="left" height = "170"/>
 <img src="https://assets.manchester.ac.uk/logos/hi-res/TAB_UNI_MAIN_logo/White_backgrounds/TAB_col_white_background.png" img align="right" height = "170" />  
