@@ -1,4 +1,5 @@
-# Ion-Mobility Mass Spectrometry of Glycans and Glycopeptides Using Both Intact and Glycan Sequencing Approaches In Positive Ion Mode Facilitates Glycan Isomer and Glycan Motif Identification    
+# Utility Of Ion-Mobility Spectrometry For Deducing Branching Of Multiply Charged Glycans & Glycopeptides In A High-Throughput Positive Ion LC-FLR-IMS-MS Workflow
+
 ## Edward G. Pallister†‡* Matthew S. F. Choo†, Ian Walsh†, Jien-Nee Tai†,Shi-Jie Tay†,Yuansheng Yang†, Say-Kong Ng†, Pauline M. Rudd†, Sabine L. Flitsch‡* and Terry Nguyen-Khuong†* 
 
 
